@@ -11,4 +11,5 @@ spec:
  accessModes:
    - ReadWriteOnce
  hostPath:
-   path: "{path-to-your}/kubedata/todo/elastic"
+   #path: "{path-to-your}/kubedata/todo/elastic"
+   path: "c:\Users\martin.mocik\Documents\kubernetes-2024\kubedata\todo\elastic"
